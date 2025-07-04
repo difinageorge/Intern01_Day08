@@ -1,4 +1,4 @@
-```markdown
+
 # 📄 Task 08: 📱 Day06: Intern01_Day06
 
 ## 🌐 Responsive Blog Page Using Bootstrap 5
@@ -34,14 +34,13 @@ This project demonstrates how to build a modern and responsive blog layout using
 
 ## 📁 Project Structure
 
-```
+
 
 📦 Intern01\_Day06
 ├── index.html      # Main HTML layout file with Bootstrap 5
 ├── styles.css      # Custom CSS for navbar, cards, and footer
 └── README.md       # You’re reading it 😉
 
-````
 
 ---
 
